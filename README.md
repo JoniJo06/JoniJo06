@@ -85,14 +85,5 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://paypal.me/jonasjuergens6@gmail.com" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
