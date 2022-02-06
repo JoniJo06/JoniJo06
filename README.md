@@ -50,7 +50,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" />  
 </div>
 
-</td>
+</td></table>
 
 
 
